@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rkravikr
-- 👀 I’m interested in Learning Programming Languages like Java , C++ , C , Python and So more.
-- 🌱 I’m currently learning C++ and i'm getting a good grasp of it.
+- 👀 I’m interested in Learning Web Development and Done other Programming Languages.
 - 💞️ I’m looking to collaborate on things related to Programming fields.
 - 📫 You can reach me through my mail address
       i.e. ravi292002@gmail.com
